@@ -6,8 +6,8 @@ Required softwires:
 This is a beginer java swing project 
 To run this project three steps required
 1. etract the rar file 
-2. coppy java project file to your c Drive
-3. coppy java file to your eclipse-workspace
+2. copy java project file to your c Drive
+3. copy java file to your eclipse-workspace
    now run the project
 
 
